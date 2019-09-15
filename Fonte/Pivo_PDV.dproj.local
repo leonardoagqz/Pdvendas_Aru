@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/14 09:31:31.000.855,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 09:49:44.000.181,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uPrincipal.dfm</Transaction>
+    <Transaction>2019/09/14 09:49:44.000.181,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uPrincipal.pas</Transaction>
+    <Transaction>2019/09/14 09:50:54.000.937,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Pivo_DPV.dproj</Transaction>
+    <Transaction>2019/09/14 09:51:16.000.042,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Pivo_DPV.dproj=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Pivo_PDV.dproj</Transaction>
+    <Transaction>2019/09/14 10:30:58.000.908,=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit2.pas</Transaction>
+    <Transaction>2019/09/14 10:31:53.000.810,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit2.pas=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uTeste.pas</Transaction>
+    <Transaction>2019/09/14 10:31:53.000.810,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit2.dfm=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uTeste.dfm</Transaction>
+    <Transaction>2019/09/14 11:15:28.853,=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 11:16:13.578,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\udmPrincipal.dfm=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2019/09/14 11:16:13.578,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\udmPrincipal.pas=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 11:38:05.673,=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 11:38:22.875,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uCadastroBase.dfm=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.dfm</Transaction>
+    <Transaction>2019/09/14 11:38:22.875,C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\uCadastroBase.pas=C:\Users\Public\Documents\Embarcadero\Studio\Projects\Curso_Araujo\Controle de Vendas\Pdvendas_Aru\Fonte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
